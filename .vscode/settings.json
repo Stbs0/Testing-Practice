@@ -3,5 +3,11 @@
     "source.fixAll.eslint": "explicit"
   },
   "eslint.validate": ["javascript"],
-  "eslint.workingDirectories": [{ "enabled": true, "path": "./src" }]
+  "eslint.workingDirectories": [
+    {
+      "enabled": true,
+      "path": "./src"
+    }
+  ],
+  "CodeGPT.apiKey": "OpenAI"
 }
